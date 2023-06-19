@@ -1,0 +1,6 @@
+:root:root {
+  --van-primary-color: #1baeae;
+  /* --van-toast-text-color: rgb(38 114 213 / 70%) !important; */
+  --van-toast-background: #3bb9c5a6 !important;
+  --van-popup-background: #3bb9c5a6 !important;
+}
